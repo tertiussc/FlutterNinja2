@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
+<<<<<<< HEAD
 import 'package:flutter_rpg/shared/styled_button.dart';
 import 'package:flutter_rpg/shared/styled_text.dart';
+=======
+>>>>>>> reset_branch
 
 class Home extends StatefulWidget {
   const Home({super.key});
